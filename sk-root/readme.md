@@ -1,0 +1,22 @@
+#### 一、包含的模块：
+- spring
+- springmvc
+- mybatis
+- shiro
+- logback
+- ehcache
+- druid
+- httpclient
+- joda-time
+- fileupload
+- email
+- poi
+- jedis （本次项目中不使用）
+- junit
+- hibernate-validate
+- freemarker
+- quartz
+- pagehelper
+- common-net (ftp)
+- 
+
